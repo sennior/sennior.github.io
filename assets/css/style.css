@@ -1,0 +1,38 @@
+
+.pg-ttl {
+  font-family: 'Pacifico', sans-serif;
+	font-size: 100px;
+	background: #31343F;
+	padding: 0.7em;
+	color: #fff;
+}
+
+.pg-dsc {
+	font-size: 30px;
+	font-family: 'Open Sans';
+}
+
+.pg-srv p {
+	color: #fff;
+	padding-top: 15px;
+}
+
+.col-4 {
+	height: 200px;
+}
+
+.col-4.city {
+	background: #3bb2d0;
+}
+
+.col-4.embassy {
+	background: #56b881;
+}
+
+.col-4.car {
+	background: #8d6cab;
+}
+
+.contact {
+	background-color: #fff;
+}
